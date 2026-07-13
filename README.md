@@ -1,4 +1,5 @@
 🚀 About Me
+
 I'm a B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Galgotias University. Passionate about Data Analytics, AI/ML, and solving real-world problems through technology. 
 
 
@@ -32,4 +33,5 @@ Let's Connect!
 
 
 🌟 More About Me
+
 Technology is one of my passions, but I'm equally curious about leadership and management. I enjoy watching TEDx talks, listening to podcasts, and learning how successful teams collaborate, make decisions, and solve real-world problems. I'm always looking for opportunities to grow, not just as a engineer, but also as a leader, teammate and a lifelong learner.
