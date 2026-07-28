@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Muskan+Saini;Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;AI+%26+Machine+Learning+Student"/>
+</p>
+
 🚀 About Me
 
 I'm a B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Galgotias University. Passionate about Data Analytics, AI/ML, and solving real-world problems through technology. 
