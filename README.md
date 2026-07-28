@@ -46,7 +46,23 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,tensorflow" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </p>
 
@@ -82,7 +98,9 @@
 
 ## 🌟 More About Me
 
-Technology is one of my passions, but I'm equally curious about leadership and management. I enjoy watching TEDx talks, listening to podcasts, and learning how successful teams collaborate, make decisions, and solve real-world problems. I'm always looking for opportunities to grow, not just as a engineer, but also as a leader, teammate and a lifelong learner.
+Technology is one of my passions, but I'm equally curious about leadership and management. I enjoy watching TEDx talks, listening to podcasts, and exploring how successful teams collaborate, make decisions, shape product strategies, and solve real-world problems.
+
+I'm always looking for opportunities to grow not just as an engineer, but also as a dependable teammate, an aspiring leader, and a lifelong learner.
 
 ---
 
@@ -90,24 +108,16 @@ Technology is one of my passions, but I'm equally curious about leadership and m
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/muskan-saini-25498a311/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/muskan-saini-25498a311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:muskansaini1730@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MuskanSaini2208">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MuskanSaini2208&style=for-the-badge"/>
 
 </p>
