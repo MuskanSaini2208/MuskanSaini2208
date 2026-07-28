@@ -1,4 +1,4 @@
-<!-- ===========================
+<img width="572" height="756" alt="image" src="https://github.com/user-attachments/assets/f85a62c0-b3bf-4001-9afa-df52e322f07b" /><!-- ===========================
      Animated Typing Header
 =========================== -->
 
@@ -20,7 +20,6 @@
 
 💡 I enjoy solving real-world business problems using data.
 
-🌱 Currently learning **SQL, Excel, Python, Power BI, DSA & System Design**
 
 ---
 
@@ -67,15 +66,6 @@
 
 </p>
 
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanSaini2208&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -85,39 +75,18 @@
 
 ---
 
-# 🏆 GitHub Trophies
+🚀 What I'm Working Towards
 
-<p align="center">
+- 📊 Becoming an industry-ready Data Analyst
+- 🏗 Building real-world analytics projects
+- 📈 Strengthening SQL and Python skills
+- 📉 Creating interactive Power BI dashboards
+- 🤝 Contributing to open-source projects
+- 🌱 Learning something new every day
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuskanSaini2208&theme=tokyonight&no-frame=true&margin-w=15"/>
+## 🌟 More About Me
 
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🛒 Zepto SQL Data Analytics Project
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Business Insights
-
-✔ Inventory Analysis
-
-✔ PostgreSQL
-
-✔ SQL
-
----
-
-### 📊 Coming Soon
-
-- Power BI Dashboard Projects
-- Python Data Analysis Projects
-- Machine Learning Projects
+Technology is one of my passions, but I'm equally curious about leadership and management. I enjoy watching TEDx talks, listening to podcasts, and learning how successful teams collaborate, make decisions, and solve real-world problems. I'm always looking for opportunities to grow, not just as a engineer, but also as a leader, teammate and a lifelong learner.
 
 ---
 
@@ -138,12 +107,6 @@
 </a>
 
 </p>
-
----
-
-# 💬 Quote
-
-> **"Without data, you're just another person with an opinion."** — W. Edwards Deming
 
 ---
 
