@@ -1,7 +1,3 @@
-<img width="572" height="756" alt="image" src="https://github.com/user-attachments/assets/f85a62c0-b3bf-4001-9afa-df52e322f07b" /><!-- ===========================
-     Animated Typing Header
-=========================== -->
-
 <h1 align="center">
   Hi 👋, I'm Muskan Saini
 </h1>
