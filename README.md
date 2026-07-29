@@ -72,9 +72,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuskanSaini2208&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuskanSaini2208&theme=tokyonight" />
 
-<img height="170em" src="https://streak-stats.demolab.com?user=MuskanSaini2208&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuskanSaini2208&theme=tokyonight&utcOffset=5.5" />
 
 </p>
 
