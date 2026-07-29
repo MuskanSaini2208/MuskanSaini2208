@@ -14,7 +14,7 @@
 
 📊 Passionate about **Data Analytics, Business Intelligence, AI & Machine Learning**
 
-💡 I enjoy solving real-world business problems using data.
+💡  I enjoy transforming data into actionable insights that help solve real-world business problems.
 
 
 ---
@@ -34,9 +34,9 @@
 
 - SQL for Data Analytics
 - Advanced Excel
-- Python
+- Python (Pandas & NumPy)
 - Power BI
-- Machine Learning
+- Machine Learning Fundamentals
 - Data Structures & Algorithms (Java)
 - System Design
 
@@ -71,9 +71,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuskanSaini2208&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuskanSaini2208&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 <img height="170em" src="https://streak-stats.demolab.com?user=MuskanSaini2208&theme=tokyonight&hide_border=true"/>
 
 </p>
