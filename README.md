@@ -68,13 +68,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Streak
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuskanSaini2208&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuskanSaini2208&theme=tokyonight&utcOffset=5.5" />
+<img src="https://streak-stats.demolab.com?user=MuskanSaini2208&theme=tokyonight&hide_border=true" />
 
 </p>
 
